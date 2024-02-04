@@ -14,7 +14,7 @@
 1. Создать телеграм-бота через BotFather:
 
 [ССЫЛКА](https://t.me/botfather)
-```
+
 2. Клонировать репозиторий:
 ```
 git@github.com:vovan46rus/joke_bot_tg.git
